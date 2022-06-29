@@ -1,0 +1,16 @@
+{
+  "javascript.validate.enable": false,
+  "javascript.format.enable": false,
+  "editor.formatOnSave": true,
+  "standard.enable": true,
+  "standard.autoFixOnSave": true,
+  "standard.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "standard._legacyModuleResolve": true,
+  "standard.usePackageJson": true,
+  "standard.engine": "standard"
+}

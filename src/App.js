@@ -1,11 +1,9 @@
-import Box from '@mui/material/Box'
+import Dashboard from './components/Dashboard'
 
-function App() {
+function App () {
   return (
-    <Box sx={{backgroundColor:'grey', minHeight: '100vh'}}>
-      this is me
-    </Box>
-  );
+    <Dashboard />
+  )
 }
 
-export default App;
+export default App
